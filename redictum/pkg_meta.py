@@ -29,7 +29,7 @@ install_requires = [
 
 extras_require = {
     "dev": [
-        "pytest==7.1.0",
+        "pytest==7.0.1",
         "coverage==6.3.2",
         "black==22.3.0",
         "isort==5.10.1",
